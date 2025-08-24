@@ -29,7 +29,7 @@
 
 body {
     min-height: 100vh;
-    background: var(--background-color) url('../images/GwTY0MSHzxCj.png') center/cover no-repeat;
+    background: var(--background-color) url('../images/GwTY0MSHzxCj.mp4') center/cover no-repeat;
     font-family: 'Manrope', ui-sans-serif, system-ui, sans-serif;
     color: var(--primary-color);
     display: flex;
@@ -564,4 +564,5 @@ audio {
     .stats-grid {
         grid-template-columns: 1fr;
         gap: 10px;
+
     }
