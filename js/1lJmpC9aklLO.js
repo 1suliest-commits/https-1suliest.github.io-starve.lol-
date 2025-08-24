@@ -22,7 +22,7 @@ const CONFIG = {
     
     roblox: {
         userId: "8319610632",
-        profileUrl: "https://www.roblox.com/de/users/8319610632/profile"
+        profileUrl: "https://t.me/instead"
     },
     gate: {
         title: "click anywhere",
@@ -47,3 +47,4 @@ const CONFIG = {
         accentColor: "#000000ff"
     }
 };
+
